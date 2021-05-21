@@ -12,7 +12,7 @@ A budget tracker application that allows both online and offline access and func
 
 ## Screen Shots
 ### Landing Screen
-![image](./public/img/budgetscreen.PNG)
+![image](./public/img/budgetscreen.png)
 
 ## Links
 [budget-tracker](https://e-budget-tracker.herokuapp.com/)
